@@ -1,0 +1,10 @@
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-item {
+    max-width: 50%;
+    font-size: 10vh;
+}
